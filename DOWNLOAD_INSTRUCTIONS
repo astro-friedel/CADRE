@@ -1,0 +1,3 @@
+The files in this repository are the files that run the CARMA Data Reduction Pipeline. They exist in 2 forms: the raw python files which are the current development version and the pipelineFiles.tar.gz file, which contains the current active version of the pipeline files.
+
+In general it is recommended you download the pipelineFiles.tar.gz file as is will be stable and functional, while the development files may not be.
