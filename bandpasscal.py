@@ -7,6 +7,7 @@ from bootflux import getCatalogFlux
 from threading import Thread
 import calculations
 
+
 """
 Module to calculate and apply bandpass solutions
 Part of the CARMA data reduction pipeline
